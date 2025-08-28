@@ -6,6 +6,7 @@ That is why I have been developing expertise in **data analysis** and **machine 
 
 🎯 Finance professional with expertise in **investments, data science, statistics, and project management**.  
 Certified (**CFP®, CPA-20, CNPI-P, CFG**) with a strong academic background and hands-on experience as both **Product Owner in agile projects** and **Project Manager in predictive environments**.  
+
 Passionate about bridging **finance, data, and technology** to drive sustainable business growth.  
 
 ---
