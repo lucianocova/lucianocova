@@ -1,3 +1,13 @@
+```
+#========================================================#
+# L         U   U   CCC   IIIII    AAA    N   N    OOO   #
+# L         U   U  C   C    I     A   A   NN  N   O   O  #
+# L         U   U  C        I     AAAAA   N N N   O   O  #
+# L         U   U  C   C    I     A   A   N  NN   O   O  #
+# LLLLL      UUU    CCC   IIIII   A   A   N   N    OOO   #
+#========================================================#
+```
+
 
 # 👋 Hi, I'm Luciano  
 
@@ -6,7 +16,6 @@ That is why I have been developing expertise in **data analysis** and **machine 
 
 🎯 Finance professional with expertise in **investments, data science, statistics, and project management**.  
 Certified (**CFP®, CPA-20, CNPI-P, CFG**) with a strong academic background and hands-on experience as both **Product Owner in agile projects** and **Project Manager in predictive environments**.  
-
 Passionate about bridging **finance, data, and technology** to drive sustainable business growth.  
 
 ---
@@ -46,6 +55,21 @@ Passionate about bridging **finance, data, and technology** to drive sustainable
 
 ---
 
+## 🧭 Strategic Thinking  
+
+I approach business challenges through the lens of **strategy as choice**, inspired by the framework of *“Playing to Win”*. My focus is not only on **execution**, but also on **defining where and how to compete effectively**.  
+
+- **Winning Aspiration**: Create sustainable value by integrating finance, analytics, and governance.  
+- **Where to Play**: Financial services, data-driven decision-making, fraud prevention, and commercial strategy.  
+- **How to Win**: Leveraging **data science**, **statistical modeling**, and **project management excellence** to deliver insights and results that generate a competitive edge.  
+- **Capabilities**: Advanced analytics, financial certifications, agile/predictive project leadership, compliance knowledge.  
+- **Systems**: Data-driven monitoring, OKR alignment, and structured performance governance.  
+
+This mindset allows me to align **day-to-day execution with long-term strategic objectives**, ensuring that projects and initiatives contribute directly to competitive advantage and sustainable growth.  
+
+---
+
 ## 🚀 About Me  
 
 I combine a **finance and compliance background** with **data science and project management expertise**, bringing a unique perspective that integrates **strategic decision-making, analytical insights, and hands-on execution**. My focus is on delivering value through **data-driven solutions, governance, and sustainable growth**.  
+
