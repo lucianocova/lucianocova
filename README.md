@@ -55,7 +55,7 @@ Passionate about bridging **finance, data, and technology** to drive sustainable
 ## 📜 Certifications  
 - **CFP® (Certified Financial Planner)**  
 - **CPA-20 (ANBIMA)**  
-- **CNPI-P (APIMEC)** – Securities Analyst (Investments)  
+- **CNPI-P (APIMEC)**   
 - **CFG (ANBIMA)**  
 
 ---
